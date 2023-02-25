@@ -1,0 +1,146 @@
+body {
+    background-color: #D8E2EF;
+}
+
+.box1 {
+    width: 335px;
+    height: 525px;
+    left: 474px;
+    top: 165px;
+    background: #FFFFFF;
+    border-radius: 8px; 
+}
+
+.box2 {
+    
+    margin-top: 17px;
+    margin-right:  36px; 
+    margin-bottom:  40px; 
+    margin-left:  38px;
+ 
+
+    background: rgba(216, 226, 239, 0.34);
+    border-radius: 10px;
+    
+    
+}
+
+.box3{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.box4 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.image {
+    width: 335px;
+    height: 232px;
+    left: 474px;
+    top: 165px;
+} 
+
+.image2 {
+    width: 39px;
+    height: 39px;
+    background: #D9D9D9;
+    border-radius: 100px;
+    margin-top: 10px;
+    margin-left: 14px;
+}
+
+.font {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #000000;
+    margin-top: 28px;
+}
+
+.font1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    text-align: center;
+    color: #000000;
+    margin-top: 18px;
+    width: 210px;
+    margin-left: 62px;
+    
+}
+
+.font2 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 20px;
+    margin:0px;
+    margin-top: 12px;
+
+    text-align: center;
+    color: #000000;
+}
+
+.font3 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 15px;
+    margin-top: 0px;
+    margin-right: 20px;
+
+    text-align: center;
+    color: #433E3E;
+   
+}
+
+.font4 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 22px;
+    border: none;
+    margin-top: 15px;
+    margin-bottom: 22px;
+
+    text-align: center;
+    background:none;
+    color: #322C79;
+
+}
+
+.font5 {
+    width: 262px;
+    height: 39px;
+    left: 512px;
+    top: 622px;
+    margin-top: none;
+    margin-left: 38px;
+    color: #FFFFFF;
+
+
+    background: #727272;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    border: none;
+}
+
+
